@@ -8,7 +8,7 @@ Built as part of an embedded systems assignment at **IIT Guwahati**.
 
 ## Demo
 
-> 🔗 **Wokwi Simulation:** _[Add your Wokwi link here]_
+> 🔗 **Wokwi Simulation:** [Click to open](https://wokwi.com/projects/466788091244715009)
 
 ---
 
