@@ -116,8 +116,9 @@ Install via Arduino Library Manager or Wokwi's library panel:
 ## File Structure
 
 ```
-├── terminal.cpp      # Main source code
-├── diagram.json      # Wokwi circuit wiring
+├── terminal.cpp            # Main source code
+├── diagram.json            # Wokwi circuit wiring
+├── ciruit_screenshot.png   #screen shot of ciruit
 └── README.md
 ```
 
